@@ -1,8 +1,7 @@
-package Lesson3.Lesson3Task1;
+package lesson3.lesson3task1;
 
 public class CalcTest {
       public static void main(String[] args) {
-
             Calculator calculator = new Calculator();
             double wynik;
             wynik=calculator.add(2,5);
@@ -14,7 +13,4 @@ public class CalcTest {
             calculator.substract(2.3,4.5);
             System.out.println("Różnica wynosi " + calculator.substract(2.3,4.5));
       }
-
-
-
 }
