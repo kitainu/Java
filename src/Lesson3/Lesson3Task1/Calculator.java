@@ -1,21 +1,21 @@
-package Lesson3.Lesson3Task1;
+package lesson3.lesson3Task1;
 
 public class Calculator {
 
-    double add(double a, double b, double c) {
-        return a + b + c;
+    double add(double firstNumber, double secondNumber, double thirdNumber) {
+        return firstNumber + secondNumber+ thirdNumber;
     }
 
-    double add(int a, double b) {
-        return a + b;
+    double add(int firstNumber, double secondNumber) {
+        return firstNumber + secondNumber;
     }
 
-    int substract(int a, int c) {
-        return a - c;
+    int substract(int firstNumber, int thirdNumber) {
+        return firstNumber - thirdNumber;
     }
 
-    double substract(double a, double c) {
-        return a - c;
+    double substract(double firstNumber, double thirdNumber) {
+        return firstNumber - thirdNumber;
     }
 
 }
