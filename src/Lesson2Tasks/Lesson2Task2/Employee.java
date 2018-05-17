@@ -25,7 +25,7 @@ public class Employee {
     public String getLastName() {
         return lastName;
     }
-ł
+    
     public int getYearOfBirth() {
         return yearOfBirth;
     }
