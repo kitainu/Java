@@ -1,4 +1,4 @@
-package Lesson2Pawel.Lesson2Pawel2;
+package lesson2Pawel.lesson2Pawel2;
 
 public class FootBallPlayer {
     private String name;
