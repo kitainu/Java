@@ -1,4 +1,4 @@
-package Lesson2Pawel.Lesson2Pawel2;
+package lesson2Pawel.lesson2Pawel2;
 
 public class PlayerInspection {
     public static void main(String[] args) {
@@ -16,9 +16,5 @@ public class PlayerInspection {
         System.out.println(footBallPlayer.getCurrentTeam());
         footBallPlayer.setPositionOnTheField("Seeker");
         System.out.println(footBallPlayer.getPositionOnTheField());
-
-
-
-
     }
 }
