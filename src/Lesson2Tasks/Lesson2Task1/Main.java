@@ -1,9 +1,8 @@
-package Lesson2Tasks.Lesson2Task1;
+package lesson2Tasks.lesson2Task1;
 
 import java.util.Random;
 
 public class Main {
-
     public static void main(String[] args) {
         Random rand = new Random();
         {
