@@ -1,8 +1,6 @@
-package Lesson1Task3.com.company;
+package lesson1.task3.com.company;
 
 public class Car {
-
-
         String Trademark ;
         String Model;
         int Year;
