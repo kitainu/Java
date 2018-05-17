@@ -1,4 +1,4 @@
-package Lesson2Tasks.Lesson2Task2;
+package lesson2Tasks.lesson2Task2;
 
 public class Employee {
 
@@ -12,7 +12,6 @@ public class Employee {
         this.lastName = lastName;
         this.yearOfBirth = yearOfBirth;
         this.numberOfWorkinYears = numberOfWorkingYears;
-
     }
 
     public void pretendToWork() {
