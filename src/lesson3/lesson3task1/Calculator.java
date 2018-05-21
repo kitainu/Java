@@ -1,4 +1,4 @@
-package lesson3.lesson3Task1;
+package lesson3.lesson3task1;
 
 public class Calculator {
 

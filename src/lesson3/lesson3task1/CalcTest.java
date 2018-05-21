@@ -1,8 +1,9 @@
 package lesson3.lesson3task1;
+import lesson3.lesson3task1.Calculator;
 
 public class CalcTest {
       public static void main(String[] args) {
-            Calculator calculator = new Calculator();
+           Calculator calculator = new Calculator();
             double wynik;
             wynik=calculator.add(2,5);
             System.out.println("Suma liczb wynsi " + wynik);

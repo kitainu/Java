@@ -1,4 +1,4 @@
-package lesson2Pawel.lesson2Pawel1;
+package lesson2pawel.lesson2pawel1;
 
 public class Lesson2Pawel1 {
     public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class Lesson2Pawel1 {
         double division = thirdNumb / fourthNumb;
 
         System.out.println(adding);
-        System.out.println(subtraction);
+        System.out.println(subtracion);
         System.out.println(multiplication);
         System.out.println(division);
     }

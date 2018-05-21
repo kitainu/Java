@@ -1,4 +1,4 @@
-package lesson1.task3.com.company;
+package lesson1task3;
 
 public class Car {
         String Trademark ;
@@ -9,8 +9,8 @@ public class Car {
     public void printData() {
         System.out.println();
         System.out.println(Model);
-        System.out.println(Year);
-        System.out.print(Price);
+        System.out.println(year);
+        System.out.print(price);
     }
 
 }
